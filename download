@@ -1,0 +1,11 @@
+DISCORD_TOKEN=PASTE_NEW_DISCORD_BOT_TOKEN_HERE
+WORKER_BASE_URL=https://offline-dice-api.fischerleo56.workers.dev
+USER_SETTINGS_TOKEN=SET_IN_BOT_HOSTING_PANEL
+GUILD_ID=PUT_SERVER_ID_HERE
+LOG_CHANNEL_ID=PUT_LOG_CHANNEL_ID_HERE
+
+# Python executable, e.g. python on Windows or C:\Python312\python.exe
+PYTHON_COMMAND=python
+
+# Optional: colors recognized by the capture agent
+# red,orange,gold,green,blue,purple
